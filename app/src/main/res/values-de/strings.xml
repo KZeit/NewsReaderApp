@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsReaderApp</string>
+    <string name="navigation_drawer_open">Navigationsleiste öffnen</string>
+    <string name="navigation_drawer_close">Navigationsleiste schließen</string>
+    <string name="action_help">Hilfe</string>
+    <string name="delete_article">Artikel löschen</string>
+</resources>
